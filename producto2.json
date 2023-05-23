@@ -1,0 +1,43 @@
+{
+    "id": 1,
+    "nombre": "MOGSA Gorra De Béisbol Fashion Spring Cotton Cap Baseball Tap Snapback Gat Summer Cap Hip Hop Hop Hats For Men Mujeres Multor Multicolor",
+    "precio": "21,36",
+    "maxUnidades": 15,
+    "imagenPortada": "https://m.media-amazon.com/images/I/61+gvPcdU5L._AC_SX425_.jpg",
+    "vendedor": {
+        "nombre": "Weeeca"
+    },
+    "valoracion": {
+        "puntaje": "4,0",
+        "cantidad": 215
+    },
+    "fechaEntrega": "Domingo, 28 de mayo",
+    "descripciones": [
+        "Esta clásica gorra de béisbol tiene la comodidad fiable de un favorito bien desgastado desde el principio. Un lavado vintage le da el aspecto y la sensación de un sombrero que ya está roto. Ajusta la correa trasera para un ajuste perfecto y estás listo para salir en cualquier aventura al aire libre",
+        "Protege tu piel de los dañinos rayos UV y mantén tu cabello fuera de tu cara y ojos usando esta cómoda gorra de béisbol durante todas tus actividades al aire libre. Hecho de 100% algodón transpirable de alta calidad, es el compañero perfecto para tu estilo de vida activo.",
+        "Adecuado para hombres, mujeres, niños y niñas, se puede llevar cuando haces deporte, vacaciones, vacaciones en la playa, actividades al aire libre. Ligero, duradero, suave, ajustable, varios colores para elegir.",
+        "La gorra de béisbol está hecha de tela de algodón, material más grueso, ala larga, no irrita la piel. El forro del sombrero es delgado, suave y ligero, el deslizador ajustable está hecho de latón, ideal para la mayoría de tamaños de cabeza, sombrero de papá. Las opciones de color son adecuadas para la mayoría de las ocasiones"
+    ],
+    "modelos": [
+        {
+            "nombre": "A-Azul",
+            "urlImagen": "https://m.media-amazon.com/images/I/41ad2Ku+tBL._SS36_.jpg"
+        },
+        {
+            "nombre": "B-Amarillo",
+            "urlImagen": "https://m.media-amazon.com/images/I/41ZJJppLpnL._SS36_.jpg"
+        },
+        {
+            "nombre": "C-Rojo",
+            "urlImagen": "https://m.media-amazon.com/images/I/41hJKOM3iQL._SS36_.jpg"
+        },
+        {
+            "nombre": "D-Azul",
+            "urlImagen": "https://m.media-amazon.com/images/I/413db4OgVZL._SS36_.jpg"
+        },
+        {
+            "nombre": "E-Rosa",
+            "urlImagen": "https://m.media-amazon.com/images/I/41e7rzD40gL._SS36_.jpg"
+        }
+    ]
+}
